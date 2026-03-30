@@ -1,5 +1,8 @@
 <h1 align="center"> DL-Genai Project 26t1 </h1>
 
+<p align="center"><i>Name: Kaushal Vaid </i> </p>
+<p align="center"><i>Roll-No: 24f2000681 </i></p>
+
 # Classification on Messy Mashups
 
 > Robust music genre classification under heavily degraded, noisy, real-world mashup conditions.
