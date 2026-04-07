@@ -9,6 +9,12 @@
 
 ---
 
+## Deployment Link
+
+https://kaushal00vaid-messy-music-genre-classifier.hf.space
+
+---
+
 ## Problem Statement
 
 Given multi-stem audio tracks (drums, vocals, bass, other) from 10 music genres, classify each track correctly, but the catch is the **test data is a chaotic mess**: stems are cross-mixed across genres, tempo-shifted, and layered with heavy environmental noise (sirens, dogs, babies crying, vacuums, etc. from the ESC-50 dataset).
