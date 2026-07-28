@@ -21,7 +21,7 @@ Given multi-stem audio tracks (drums, vocals, bass, other) from 10 music genres,
 The core challenge is bridging the **domain gap** between clean training data and brutally degraded test conditions.
 
 **Evaluation Metric:** Macro F1-Score  
-**Best Leaderboard Score:** `0.94520 F1 macro`
+**Best Leaderboard Score:** `0.94793 F1 macro`
 
 ---
 
